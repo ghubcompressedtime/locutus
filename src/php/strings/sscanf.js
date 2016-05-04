@@ -1,4 +1,5 @@
-module.exports = function sscanf (str, format) {
+//module.exports = function sscanf (str, format) {
+function sscanf (str, format) {
   //  discuss at: http://locutusjs.io/php/sscanf/
   // original by: Brett Zamir (http://brett-zamir.me)
   //   example 1: sscanf('SN/2350001', 'SN/%d')
